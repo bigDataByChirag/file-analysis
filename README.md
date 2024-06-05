@@ -45,9 +45,9 @@ Endpoints
     
     *   name (path parameter): The name of the directory to search in.
         
-*   bashCopy codecurl http://localhost:8080/file/example\_directory
+*   curl http://localhost:8080/file/example\_directory
     
-*   jsonCopy code{ "largest\_file": "example.txt", "size": 1024}
+*   { "largest\_file": "example.txt", "size": 1024}
     
 
 ### GET /dir/
@@ -58,9 +58,9 @@ Endpoints
     
     *   name (path parameter): The name of the directory to calculate the size of.
         
-*   bashCopy codecurl http://localhost:8080/dir/example\_directory
+*   curl http://localhost:8080/dir/example\_directory
     
-*   jsonCopy code{ "total\_size": 20480}
+*   { "total\_size": 20480}
     
 
 Logging
