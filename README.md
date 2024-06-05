@@ -13,15 +13,7 @@ Before running this application, ensure you have the following installed:
 2.  [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
     
 3.  [Go Modules](https://blog.golang.org/using-go-modules)
-    
-
-Installation
-------------
-
-1.  git clone https://github.com/yourusername/yourrepository.gitcd yourrepository
-    
-2.  go mod tidy
-    
+ 
    
 
 Running the Application
