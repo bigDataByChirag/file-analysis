@@ -1,4 +1,4 @@
-Gin Server with Structured Logging
+File Analysis
 ==================================
 
 This project is a Gin-based web server that provides endpoints for file and directory operations. It includes structured logging using slog and environment variable management with godotenv. The server can find the largest file in a directory and calculate the total size of a directory.
